@@ -1,0 +1,4 @@
+#!/bin/bash
+#script to show current working directory
+mydir="$(pwd)"
+echo "Current directory: $mydir"
